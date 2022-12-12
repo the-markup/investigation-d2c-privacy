@@ -1,4 +1,4 @@
-# Privacy - Direct-to-Consumer Telehealth Companies
+# Privacy: Direct-to-Consumer Telehealth Companies
 
 This repository contains screenshots and HAR files supporting our article "['Out of control': Dozens of telehealth startups send sensitive health information to big tech companies](https://themarkup.org/TKTK)". This article was coreported with STAT and is available on its site [here](https://statnews.com/TKTKT) as well.
 
